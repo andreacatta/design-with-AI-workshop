@@ -1,5 +1,7 @@
-# design-with-AI-workshop
-latest update: 2021 September the 28th
+# exercise - 1 image classifier with Arduino TinyML Kit and teachable Machine
+latest update: 2021 September the 28th\
+original tutorial from [@GautamBose](https://github.com/GautamBose) [here](https://github.com/googlecreativelab/teachablemachine-community/blob/master/snippets/markdown/tiny_image/GettingStarted.md) 
+
 
 ## Step 1 - get Arduino IDE
 1. go to https://www.arduino.cc/en/software and download the IDE
@@ -89,9 +91,9 @@ latest update: 2021 September the 28th
 
 the left side of the window should now show your Arduino camera view
 
-## Step 9 - open teachable Machine
+## Step 9 - setup Teachable Machine
 1. go to https://teachablemachine.withgoogle.com/
-2. 
+2. click **Image Project** then **Embedded Image Model**
 
 
  
