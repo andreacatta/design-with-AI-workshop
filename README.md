@@ -8,3 +8,5 @@ Fisrt edition held at the University of Bologna on 28th/29th September 2021
 
 ## Exercise 1 - image classification 
 [go here](https://github.com/andreacatta/design-with-AI-workshop/blob/main/exercise-1_image%20classifier/README.md) for the step-by-step tutorial
+
+![immagine](https://user-images.githubusercontent.com/6803317/135180602-3f10b08e-691a-44e8-b47b-313cffdb6afc.png)
