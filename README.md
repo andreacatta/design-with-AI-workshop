@@ -89,8 +89,9 @@ latest update: 2021 September the 28th
 
 the left side of the window should now show your Arduino camera view
 
-
-
+## Step 9 - open teachable Machine
+1. go to https://teachablemachine.withgoogle.com/
+2. 
 
 
  
