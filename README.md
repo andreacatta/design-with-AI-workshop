@@ -5,6 +5,8 @@ latest update: 2021 September the 28th
 1. go to https://www.arduino.cc/en/software and download the IDE
 2. open the .zip file and check out this guide for detailed installation instructions https://www.arduino.cc/en/Guide
 
+![immagine](https://user-images.githubusercontent.com/6803317/135173494-d52e390e-08cb-4e01-99aa-d60db68c8885.png)
+
 
 ## Step 2 - get Processing
 1. go to https://processing.org/download and download stable version 3.5.4
