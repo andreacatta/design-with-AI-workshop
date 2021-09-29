@@ -95,5 +95,12 @@ the left side of the window should now show your Arduino camera view
 1. go to https://teachablemachine.withgoogle.com/
 2. click **Image Project** then **Embedded Image Model**
 
+![immagine](https://user-images.githubusercontent.com/6803317/135181378-b2d69150-f44c-4dcc-a8ca-798fce6f3584.png)
+
+![immagine](https://user-images.githubusercontent.com/6803317/135181356-0798187f-7472-4a1b-ba9e-cb4f426d2611.png)
+
+![immagine](https://user-images.githubusercontent.com/6803317/135181404-ebeca45f-c6b7-4541-8797-bf99c0d9e3ad.png)
+
+
 
  
